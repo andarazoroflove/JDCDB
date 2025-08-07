@@ -1,6 +1,0 @@
-# macOS specific files
-.DS_Store
-._*
-.localized    
-.*
-!/.gitignore
